@@ -1,3 +1,2 @@
 # gis-test-matsp
-Experimental map viewing programs
-OK.
+Experimental and totally undocumented map viewing programs.
